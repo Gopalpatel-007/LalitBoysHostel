@@ -1,0 +1,5 @@
+{
+  "name": "Lalit Boys Hostel Management System",
+  "description": "A comprehensive hostel management system for Lalit Boys Hostel, Narendi, Lucknow. Features student CRUD operations, visual room occupancy tracking, and month-wise rent management.",
+  "requestFramePermissions": []
+}
